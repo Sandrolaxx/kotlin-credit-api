@@ -19,6 +19,12 @@
     <a alt="Flyway">
         <img src="https://img.shields.io/badge/Flyway-v9.5.1-red.svg">
     </a>
+    <a alt="Junit">
+        <img src="https://img.shields.io/badge/Junit-5.10.1-red.svg">
+    </a>
+    <a alt="OpenAPI">
+        <img src="https://img.shields.io/badge/OpenAPI-3.0-green.svg">
+    </a>
 </p>
 
 <h3>Descrição do Projeto</h3>
@@ -30,10 +36,25 @@
 </p>
 </figure>
 
-<h3>Instrução de Uso</h3>
-<p>No Terminal/Console:</p>
-<ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone git@github.com:cami-la/credit-application-system.git</code></li>
-	<li>Entre na pasta raiz do projeto: <code>cd </code></li> 
-	<li>Execute o comando: <code>./gradlew bootrun</code></li>
-</ol>
+---
+
+## Desafios do projeto🎯
+
+Abaixo alguns desafios propostos pelo expert:
+
+- O máximo de parcelas permitido será 48✅
+- Data da primeira parcela deverá ser no máximo 3 meses após o dia atual✅
+- Criar o teste unitário para funcionalidade de Credit✅
+- Criar o teste integração para funcionalidade de Credit✅
+
+---
+
+## Sobre o BootCamp Desenvolvimento Backend com Kotlin
+
+Mais um ótimo bootcamp desenvolvido pelo pessoal da DIO, realmente me surpreendeu todo o conhecimento passado, até algumas tecnologias que estava a muito tempo querendo utilizar, tive a oportunidade de ter o primeiro contato, como o Redis por exemplo.
+
+Quanto ao Kotlin, foi excelente esse primeiro contato e agora mais uma ferramenta para colocar na caixa.
+
+Abaixo é possível acessar o repositório onde fiz todas as minhas anotações durante o curso.
+
+[Link do repo com anotações](https://github.com/Sandrolaxx/boot-dio-kotlin)
